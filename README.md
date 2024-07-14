@@ -1,7 +1,7 @@
 # ROS2 TurtleCatcher: A Python Project for Catching and Spawning Turtles
 
 This ROS2 project, written in Python, showcases a dynamic simulation environment where one turtle continuously chases and eliminates other turtles within a designated space.\
-The project demonstrates fundamental ROS2 concepts like node creation, publisher/subscriber communication, and dynamic object manipulation.		
+The project demonstrates fundamental ROS2 concepts like node creation, publisher/subscriber communication, and dynamic object manipulation.\		
 ![image](https://github.com/user-attachments/assets/0e09ceac-5f1b-49fc-8094-5d6f3f8fbee5)
 
 
@@ -27,4 +27,4 @@ target_spawner_node.py: This node is responsible for spawning new target turtles
 Clone the project repository.\
 Build the project using colcon build.\
 Source the ROS environment using source install/setup.bash.\
-Run the project using ros2 launch turtlesim_catcher turtlesim_catcher.launch.py.
+Run the project using ros2 run turtlesim_simulator publisher
