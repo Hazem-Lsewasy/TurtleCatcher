@@ -2,6 +2,8 @@
 
 This ROS2 project, written in Python, showcases a dynamic simulation environment where one turtle continuously chases and eliminates other turtles within a designated space.\
 The project demonstrates fundamental ROS2 concepts like node creation, publisher/subscriber communication, and dynamic object manipulation.		
+![image](https://github.com/user-attachments/assets/0e09ceac-5f1b-49fc-8094-5d6f3f8fbee5)
+
 
 ## Project Functionality:
 Turtle Spawning: The project initializes the simulation with two turtles. One designated as the "catcher" and the other as the "target."\
