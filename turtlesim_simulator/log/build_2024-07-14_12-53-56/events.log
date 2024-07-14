@@ -1,0 +1,58 @@
+[0.000000] (-) TimerEvent: {}
+[0.001052] (turtlesim_simulator) JobQueued: {'identifier': 'turtlesim_simulator', 'dependencies': OrderedDict()}
+[0.001110] (turtlesim_simulator) JobStarted: {'identifier': 'turtlesim_simulator'}
+[0.113471] (-) TimerEvent: {}
+[0.248941] (-) TimerEvent: {}
+[0.399751] (-) TimerEvent: {}
+[0.542294] (-) TimerEvent: {}
+[0.644136] (-) TimerEvent: {}
+[0.763588] (-) TimerEvent: {}
+[0.864732] (-) TimerEvent: {}
+[0.972311] (-) TimerEvent: {}
+[1.074603] (-) TimerEvent: {}
+[1.195245] (-) TimerEvent: {}
+[1.297249] (-) TimerEvent: {}
+[1.406896] (-) TimerEvent: {}
+[1.508275] (-) TimerEvent: {}
+[1.612676] (-) TimerEvent: {}
+[1.719391] (-) TimerEvent: {}
+[1.865102] (-) TimerEvent: {}
+[1.977329] (-) TimerEvent: {}
+[2.081258] (-) TimerEvent: {}
+[2.209284] (-) TimerEvent: {}
+[2.281776] (turtlesim_simulator) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', 'build/turtlesim_simulator', 'build', '--build-base', '/home/hazem/kill_ws/src/turtlesim_simulator/build/turtlesim_simulator/build', 'install', '--record', '/home/hazem/kill_ws/src/turtlesim_simulator/build/turtlesim_simulator/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/hazem/kill_ws/src/turtlesim_simulator', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'en_GB:en', 'USER': 'hazem', 'LC_TIME': 'ar_EG.UTF-8', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/iron/opt/rviz_ogre_vendor/lib:/opt/ros/iron/lib/x86_64-linux-gnu:/opt/ros/iron/lib', 'HOME': '/home/hazem', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'LC_MONETARY': 'ar_EG.UTF-8', 'DBUS_STARTER_BUS_TYPE': 'session', 'SYSTEMD_EXEC_PID': '2637', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus,guid=41dc360d5db7bdc23bbd9956669399d2', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'ROS_DISTRO': 'iron', 'LOGNAME': 'hazem', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'hazem', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'PATH': '/opt/ros/iron/bin:/home/hazem/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/HazemVM:@/tmp/.ICE-unix/2637,unix/HazemVM:/tmp/.ICE-unix/2637', 'PAPERSIZE': 'a4', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'ar_EG.UTF-8', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/16536677_5f18_46b6_a285_095fb4714e3e', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_GB.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'ar_EG.UTF-8', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.SQMCR2', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.149', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'ROS_DOMAIN_ID': '1', 'AMENT_PREFIX_PATH': '/opt/ros/iron', 'SHELL': '/bin/bash', 'LC_NAME': 'ar_EG.UTF-8', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'ar_EG.UTF-8', 'LC_IDENTIFICATION': 'ar_EG.UTF-8', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/hazem/kill_ws/src/turtlesim_simulator/build/turtlesim_simulator', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'DBUS_STARTER_ADDRESS': 'unix:path=/run/user/1000/bus,guid=41dc360d5db7bdc23bbd9956669399d2', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/hazem/kill_ws/src/turtlesim_simulator/build/turtlesim_simulator/prefix_override:/home/hazem/kill_ws/src/turtlesim_simulator/install/turtlesim_simulator/lib/python3.10/site-packages:/opt/ros/iron/lib/python3.10/site-packages', 'LC_NUMERIC': 'ar_EG.UTF-8', 'LC_PAPER': 'ar_EG.UTF-8', 'COLCON': '1', 'VTE_VERSION': '6800'}, 'shell': False}
+[2.313784] (-) TimerEvent: {}
+[2.414388] (-) TimerEvent: {}
+[2.544068] (-) TimerEvent: {}
+[2.648748] (-) TimerEvent: {}
+[2.750889] (-) TimerEvent: {}
+[2.864646] (-) TimerEvent: {}
+[2.966909] (-) TimerEvent: {}
+[3.072522] (-) TimerEvent: {}
+[3.175678] (-) TimerEvent: {}
+[3.277095] (-) TimerEvent: {}
+[3.323627] (turtlesim_simulator) StdoutLine: {'line': b'running egg_info\n'}
+[3.325046] (turtlesim_simulator) StdoutLine: {'line': b'writing build/turtlesim_simulator/turtlesim_simulator.egg-info/PKG-INFO\n'}
+[3.330722] (turtlesim_simulator) StdoutLine: {'line': b'writing dependency_links to build/turtlesim_simulator/turtlesim_simulator.egg-info/dependency_links.txt\n'}
+[3.330930] (turtlesim_simulator) StdoutLine: {'line': b'writing entry points to build/turtlesim_simulator/turtlesim_simulator.egg-info/entry_points.txt\n'}
+[3.332342] (turtlesim_simulator) StdoutLine: {'line': b'writing requirements to build/turtlesim_simulator/turtlesim_simulator.egg-info/requires.txt\n'}
+[3.333420] (turtlesim_simulator) StdoutLine: {'line': b'writing top-level names to build/turtlesim_simulator/turtlesim_simulator.egg-info/top_level.txt\n'}
+[3.347868] (turtlesim_simulator) StdoutLine: {'line': b"reading manifest file 'build/turtlesim_simulator/turtlesim_simulator.egg-info/SOURCES.txt'\n"}
+[3.350535] (turtlesim_simulator) StdoutLine: {'line': b"writing manifest file 'build/turtlesim_simulator/turtlesim_simulator.egg-info/SOURCES.txt'\n"}
+[3.352451] (turtlesim_simulator) StdoutLine: {'line': b'running build\n'}
+[3.352706] (turtlesim_simulator) StdoutLine: {'line': b'running build_py\n'}
+[3.353812] (turtlesim_simulator) StdoutLine: {'line': b'running install\n'}
+[3.355030] (turtlesim_simulator) StdoutLine: {'line': b'running install_lib\n'}
+[3.358781] (turtlesim_simulator) StdoutLine: {'line': b'running install_data\n'}
+[3.368344] (turtlesim_simulator) StdoutLine: {'line': b'running install_egg_info\n'}
+[3.368525] (turtlesim_simulator) StdoutLine: {'line': b"removing '/home/hazem/kill_ws/src/turtlesim_simulator/install/turtlesim_simulator/lib/python3.10/site-packages/turtlesim_simulator-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[3.368629] (turtlesim_simulator) StdoutLine: {'line': b'Copying build/turtlesim_simulator/turtlesim_simulator.egg-info to /home/hazem/kill_ws/src/turtlesim_simulator/install/turtlesim_simulator/lib/python3.10/site-packages/turtlesim_simulator-0.0.0-py3.10.egg-info\n'}
+[3.368707] (turtlesim_simulator) StdoutLine: {'line': b'running install_scripts\n'}
+[3.380841] (-) TimerEvent: {}
+[3.452764] (turtlesim_simulator) StdoutLine: {'line': b'Installing publisher script to /home/hazem/kill_ws/src/turtlesim_simulator/install/turtlesim_simulator/lib/turtlesim_simulator\n'}
+[3.453188] (turtlesim_simulator) StdoutLine: {'line': b'Installing spawner script to /home/hazem/kill_ws/src/turtlesim_simulator/install/turtlesim_simulator/lib/turtlesim_simulator\n'}
+[3.453827] (turtlesim_simulator) StdoutLine: {'line': b"writing list of installed files to '/home/hazem/kill_ws/src/turtlesim_simulator/build/turtlesim_simulator/install.log'\n"}
+[3.484084] (-) TimerEvent: {}
+[3.518232] (turtlesim_simulator) CommandEnded: {'returncode': 0}
+[3.559248] (turtlesim_simulator) JobEnded: {'identifier': 'turtlesim_simulator', 'rc': 0}
+[3.563399] (-) EventReactorShutdown: {}

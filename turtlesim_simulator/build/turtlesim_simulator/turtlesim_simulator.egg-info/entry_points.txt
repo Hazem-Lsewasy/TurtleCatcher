@@ -1,0 +1,4 @@
+[console_scripts]
+publisher = turtlesim_simulator.publisher:main
+spawner = turtlesim_simulator.spawner:main
+

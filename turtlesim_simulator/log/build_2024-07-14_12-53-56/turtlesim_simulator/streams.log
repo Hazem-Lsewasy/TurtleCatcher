@@ -1,0 +1,22 @@
+[2.282s] Invoking command in '/home/hazem/kill_ws/src/turtlesim_simulator': PYTHONPATH=/home/hazem/kill_ws/src/turtlesim_simulator/build/turtlesim_simulator/prefix_override:/home/hazem/kill_ws/src/turtlesim_simulator/install/turtlesim_simulator/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/turtlesim_simulator build --build-base /home/hazem/kill_ws/src/turtlesim_simulator/build/turtlesim_simulator/build install --record /home/hazem/kill_ws/src/turtlesim_simulator/build/turtlesim_simulator/install.log --single-version-externally-managed install_data
+[3.323s] running egg_info
+[3.324s] writing build/turtlesim_simulator/turtlesim_simulator.egg-info/PKG-INFO
+[3.330s] writing dependency_links to build/turtlesim_simulator/turtlesim_simulator.egg-info/dependency_links.txt
+[3.331s] writing entry points to build/turtlesim_simulator/turtlesim_simulator.egg-info/entry_points.txt
+[3.331s] writing requirements to build/turtlesim_simulator/turtlesim_simulator.egg-info/requires.txt
+[3.332s] writing top-level names to build/turtlesim_simulator/turtlesim_simulator.egg-info/top_level.txt
+[3.347s] reading manifest file 'build/turtlesim_simulator/turtlesim_simulator.egg-info/SOURCES.txt'
+[3.350s] writing manifest file 'build/turtlesim_simulator/turtlesim_simulator.egg-info/SOURCES.txt'
+[3.352s] running build
+[3.352s] running build_py
+[3.353s] running install
+[3.354s] running install_lib
+[3.360s] running install_data
+[3.367s] running install_egg_info
+[3.367s] removing '/home/hazem/kill_ws/src/turtlesim_simulator/install/turtlesim_simulator/lib/python3.10/site-packages/turtlesim_simulator-0.0.0-py3.10.egg-info' (and everything under it)
+[3.368s] Copying build/turtlesim_simulator/turtlesim_simulator.egg-info to /home/hazem/kill_ws/src/turtlesim_simulator/install/turtlesim_simulator/lib/python3.10/site-packages/turtlesim_simulator-0.0.0-py3.10.egg-info
+[3.368s] running install_scripts
+[3.452s] Installing publisher script to /home/hazem/kill_ws/src/turtlesim_simulator/install/turtlesim_simulator/lib/turtlesim_simulator
+[3.452s] Installing spawner script to /home/hazem/kill_ws/src/turtlesim_simulator/install/turtlesim_simulator/lib/turtlesim_simulator
+[3.453s] writing list of installed files to '/home/hazem/kill_ws/src/turtlesim_simulator/build/turtlesim_simulator/install.log'
+[3.523s] Invoked command in '/home/hazem/kill_ws/src/turtlesim_simulator' returned '0': PYTHONPATH=/home/hazem/kill_ws/src/turtlesim_simulator/build/turtlesim_simulator/prefix_override:/home/hazem/kill_ws/src/turtlesim_simulator/install/turtlesim_simulator/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/turtlesim_simulator build --build-base /home/hazem/kill_ws/src/turtlesim_simulator/build/turtlesim_simulator/build install --record /home/hazem/kill_ws/src/turtlesim_simulator/build/turtlesim_simulator/install.log --single-version-externally-managed install_data
